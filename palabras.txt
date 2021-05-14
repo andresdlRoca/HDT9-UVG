@@ -1,0 +1,6 @@
+women,mujer
+bear,oso
+man,hombre
+pencil,lapiz
+apple,manzana
+pear,pera
