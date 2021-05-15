@@ -18,7 +18,7 @@ public class Traduccion {
       diccionario = factory.getImplementacion(2);
     }
 
-    BufferedReader abc = new BufferedReader(new FileReader("palabras.txt"));
+    BufferedReader abc = new BufferedReader(new FileReader("Spanish.txt"));
     List<String> lines = new ArrayList<String>();
     String line = "";
     while((line = abc.readLine()) != null) {
